@@ -1,15 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+To Do list: list structure
 
 > Description the project.
+Building a simple HTML list of To Do tasks using webpack and served by a webpack dev server.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Javascript
 
 ## Live Demo (if available)
 
@@ -42,15 +44,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ecekpo](https://github.com/ecekpo)
+- Twitter: [@ecekpo](https://twitter.com/ecekpo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ecekpo)
 
 ## 🤝 Contributing
 
