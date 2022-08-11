@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  background-color: azure;
+}
+
+.todo-container {
+  margin: 10rem 20rem;
+}
+
+.todo-form {
+  margin: 0.5rem 0;
+}
+
+.todo-clear {
+  margin-left: 28px;
+}
+
+.todos-container {
+  margin: 2rem 0;
+}
+
+.refresh {
+  margin-left: 150px;
+}
+
+.uil-trash-alt {
+  display: none;
+  margin: 0.5rem 0;
+}
+
+.completedTask {
+  background: rgb(241, 241, 241);
+}
+
+.checkTodo {
+  text-decoration: line-through;
+}
+
+.trash-active {
+  display: block;
+}
+
+.edit-disable {
+  display: none;
+}
