@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-To Do list: list structure
+TO-DO-LIST
 
 > Description the project.
-Building a simple HTML list of To Do tasks using webpack and served by a webpack dev server.
+This project is a simple To-do-List-App which user adds and removes tasks using HTML/CSS to build the app and JavaScript to add functionalities to the app by using webpack dev server to display the app on a web server.
 
 
 ## Built With
@@ -12,6 +12,7 @@ Building a simple HTML list of To Do tasks using webpack and served by a webpack
 - HTML
 - CSS
 - Javascript
+- Webpack
 
 ## Live Demo (if available)
 
