@@ -26,11 +26,6 @@
   margin-left: 150px;
 }
 
-.uil-trash-alt {
-  display: none;
-  margin: 0.5rem 0;
-}
-
 .completedTask {
   background: rgb(241, 241, 241);
 }
