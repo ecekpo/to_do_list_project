@@ -24,7 +24,16 @@ const deleteTask = (todo) => {
   localStorage.setItem('list', JSON.stringify(data));
 };
 
-const myArray = [];
+const myArray = [
+  {
+    description: 'An example description in string',
+    completed: false,
+    index: 1,
+  }, {
+    description: 'An example description in string',
+    completed: false,
+    index: 2,
+  }];
 
 // editTodo
 const editTodo = (todoContainer, todo) => {
