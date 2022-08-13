@@ -6,28 +6,21 @@
   background-color: azure;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .todo-container {
-  margin: 10rem 20rem;
-}
-
-.todo-form {
-  margin: 0.5rem 0;
-}
-
-.todo-clear {
-  margin-left: 28px;
-}
-
-.todos-container {
-  margin: 2rem 0;
-}
-
-.refresh {
-  margin-left: 150px;
-}
-
-.completedTask {
-  background: rgb(241, 241, 241);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 100px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0 2px 5px -1px, rgba(0, 0, 0, 0.3) 0 1px 3px -1px;
+  padding: 30px 10px;
+  border-bottom: 1px solid gray;
 }
 
 .checkTodo {
@@ -40,4 +33,37 @@
 
 .edit-disable {
   display: none;
+}
+
+.first {
+  display: flex;
+  gap: 10rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.no-border {
+  border: none;
+  margin-left: -90px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.todoContainer {
+  display: flex;
+  gap: 1rem;
+}
+
+.todoContainer span,
+.todoContainer i {
+  padding: 5px;
+}
+
+.todo-clear {
+  border: none;
+  width: 100%;
+  margin-top: 20px;
 }
