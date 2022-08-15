@@ -16,7 +16,7 @@ This project is a simple To-do-List-App which user adds and removes tasks using 
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://ecekpo.github.io/to_do_list_project/)
 
 
 ## Getting Started
